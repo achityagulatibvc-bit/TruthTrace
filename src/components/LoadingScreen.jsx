@@ -48,7 +48,7 @@ export default function LoadingScreen({ onComplete }) {
         
         {phase === 'text' && (
           <div className="text-wrapper animate-slide-up">
-            <h2 className="text-gradient">Its Fact Check time</h2>
+            <h2 className="text-gradient">It's Fact Check time!</h2>
             <div className="typing-indicator mt-4">
               <span></span><span></span><span></span>
             </div>
